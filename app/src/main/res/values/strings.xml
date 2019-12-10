@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bus Madrid</string>
+    <string name="act_landing_title">Landing page - Map</string>
+    <string name="title_activity_bus_line">BusLine</string>
+</resources>
